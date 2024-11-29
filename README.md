@@ -1,39 +1,45 @@
-# Basis-Data-Database-Kuliah-S1-
+# **BASIS DATA (DATABASE) COLLAGE-2024**
 
-Bahasa Indonesia:
-# Basis Data (Database) SQL Programming
+**Selamat datang di repositori *Basis Data 2024*! 🎉**  
+**Welcome to the *Basis Data 2024* repository! 🎉**
+---
+**Oleh / By:** *Hafizh H Asyhari*  
+[@hafizhhasyhari](#)  
+## 📚 About This Repository  
 
-## Selamat datang di perjalanan saya mempelajari pemrograman basis data menggunakan SQL! 🎉
+This repository serves as a comprehensive collection of SQL-based database programs developed during my learning journey in database programming. It includes hands-on examples and exercises covering fundamental to advanced database topics:  
 
-Repositori ini berisi kumpulan program yang saya buat berdasarkan pembelajaran saya. Program-program ini mencakup berbagai topik, seperti:
+- **Basic SQL Commands**: CREATE, SELECT, INSERT, UPDATE, DELETE.  
+- **Table and Schema Management**: Tables, indexes, and schemas.  
+- **Aggregate Functions**: COUNT, AVG, MAX, and more.  
+- **Table Joins**: INNER, OUTER, LEFT, RIGHT joins.  
+- **Advanced Queries**: Subqueries and views.
+- ** Database Modeling ** : Tinjauan Umum Pemodelan Data, Model Hubungan Entitas, Desain Basis Data Merupakan Bagian dari Pemodelan Data, Mengklasifikasikan Objek dan Hubungan Data, Atribut Turunan dan Nilai Kode, Mengembangkan Skema Dasar, Menyempurnakan – Diagram Hubungan Entitas, Kunci Utama dan Kunci Asing, Menambahkan Kualitas ke Model, Hirarki Generalisasi, Menambahkan Aturan Integritas Data, Garis Besar Model Relasional
+- **Database Automation**: Triggers, stored procedures, and beyond.  
 
-Perintah dasar SQL: CREATE, SELECT, INSERT, UPDATE, DELETE.
-Pengelolaan tabel, skema, dan indeks.
-Penggunaan fungsi agregasi (COUNT, AVG, MAX, dll).
-Join antar tabel (INNER, OUTER, LEFT, RIGHT).
-Subquery dan View.
-Triggers, Stored Procedures, dan banyak lagi.
-Kontribusi
-Jika Anda memiliki ide, saran, atau ingin menambahkan program baru, jangan ragu untuk berkontribusi! Silakan fork repositori ini dan ajukan pull request.
+These programs are a blend of academic learning, exploration, and real-world challenges aimed at building a solid foundation in SQL.
 
-## 📊 Build Your SQL Knowledge Here!
-This repository is more than just SQL programs; it's a learning journey. Let’s make this a space to share knowledge, discuss ideas, and innovate in database programming.
+---
 
+## 🤝 How to Contribute  
 
-Created by: Hafizh Hasyhari
+Contributions are always welcome! If you have ideas, suggestions, or additional programs to share, follow these steps:  
 
-Welcome to my journey of learning database programming with SQL! 🎉
+1. Fork this repository.  
+2. Make your changes or additions.  
+3. Submit a pull request for review.  
 
-This repository contains a collection of programs I developed during my studies. These programs cover various topics, including:
+Let’s make this repository a collaborative space to learn, discuss, and innovate in database programming!  
 
-Basic SQL commands: CREATE, SELECT, INSERT, UPDATE, DELETE.
-Managing tables, schemas, and indexes.
-Using aggregate functions (COUNT, AVG, MAX, etc.).
-Table joins (INNER, OUTER, LEFT, RIGHT).
-Subqueries and Views.
-Triggers, Stored Procedures, and more.
-Contributions
-If you have ideas, suggestions, or would like to add new programs, feel free to contribute! Fork this repository and submit a pull request.
+---
 
-Contact
-You can find me on GitHub under the name hafizhhasyhari. Let’s collaborate and share insights!
+## 📊 Build Your SQL Skills  
+
+Whether you're a beginner or an experienced programmer, this repository is designed to provide insights, tips, and examples to enhance your database skills. Dive into the code, explore the examples, and join me in this exciting journey.  
+
+---
+
+## 👨‍💻 About Me  
+
+Created with 💻 and passion by **Hafizh Hasyhari**.  
+Explore more of my work and connect with me on GitHub at [hafizhhasyhari](https://github.com/hafizhhasyhari).  
